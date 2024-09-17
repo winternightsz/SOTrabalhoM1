@@ -1,0 +1,4 @@
+﻿  NamedPipeClient.cpp
+C:\Users\pc\NamedPipeClient\NamedPipeClient\NamedPipeClient.cpp(40,93): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\NamedPipeClient\NamedPipeClient\NamedPipeClient.cpp(88,93): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  NamedPipeClient.vcxproj -> C:\Users\pc\NamedPipeClient\x64\Debug\NamedPipeClient.exe

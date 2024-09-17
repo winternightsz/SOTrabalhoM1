@@ -1,0 +1,6 @@
+﻿  NamedPipeServers.cpp
+C:\Users\pc\NamedPipeServers\NamedPipeServers\NamedPipeServers.cpp(19,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pc\NamedPipeServers\NamedPipeServers\NamedPipeServers.cpp(35,85): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\pc\NamedPipeServers\NamedPipeServers\NamedPipeServers.cpp(55,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pc\NamedPipeServers\NamedPipeServers\NamedPipeServers.cpp(69,97): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  NamedPipeServers.vcxproj -> C:\Users\pc\NamedPipeServers\x64\Debug\NamedPipeServers.exe
